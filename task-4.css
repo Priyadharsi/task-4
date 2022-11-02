@@ -8,24 +8,29 @@ body{
 	display: flex;
     width: 100%;
 	margin: 0 auto;
-	margin-top: 388px;
-    margin-bottom: 289px;
-    padding-left: 291px;
-	padding-top: 33px;
+	margin-top: 772px;
+    padding-left: 900px;
+	padding-top: 374px;
 	background-color: white;
+	height: 1456;
 	}
-div{
-    display: inline-block;
-	}
+
+}
 .postion-box{
-	padding-left: 885px;
 	
-    }
+	position: relative;
+    width: 514px;
+    height: 448px;
+	border: solid 1px grey;
+	margin-bottom: 286px;
+	margin-top: 200px;
+}
+.pos{
+	margin-right: 200px;
+}
 .pos-img{
-	width: 100%;
+	width: 650px;
 	height: auto;
-	padding-top: 110px;
-	padding-right: 160px;
     }
 p{
 	color: #a185858c;
@@ -35,3 +40,4 @@ h3{
 	color: black;
 	font-size: 50px;
 } 
+ 
